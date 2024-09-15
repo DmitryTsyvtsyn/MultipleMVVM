@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MultipleMVVM</string>
+    <string name="add">Add</string>
+    <string name="remove">Remove</string>
+    <string name="navigate">Navigate</string>
+    <string name="selected_color">Selected color</string>
+    <string name="ok">OK</string>
+</resources>
